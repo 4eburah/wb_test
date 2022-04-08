@@ -7,5 +7,7 @@ Main script is wb_test/wb_scrap/wb_scrap/spiders/topics_spider.py
 
 Usage:
 install scrapy
+
 cd to wb_scrap directory
+
 run: scrapy crawl topics 
